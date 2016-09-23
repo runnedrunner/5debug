@@ -23,6 +23,10 @@
   margin-left: auto;
   margin-right: auto;
 }
+#coolgradient {
+  width: 300px;
+  background: linear-gradient
+}
 body {
   text-align: center;
   font-family: Helvetica;
