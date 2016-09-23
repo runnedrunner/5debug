@@ -1,0 +1,39 @@
+#bluething {
+  color: white;
+  background-color: blue;
+  width: 300px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+#padded {
+  width: 260px;
+  border: 1px solid;
+  padding: 20px 20px 20px 20px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#border-radius {
+  width: 300px;
+  border: 1px solid;
+  border-radius: 30px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#coolgradient {
+  color: white;
+  width: 300px;
+  background: linear-gradient(lightgreen, blue);
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+body {
+  text-align: center;
+  font-family: Helvetica;
+  color: grey;
+}
