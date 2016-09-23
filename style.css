@@ -24,8 +24,9 @@
   margin-right: auto;
 }
 #coolgradient {
+  color: white;
   width: 300px;
-  background: linear-gradient(green, blue);
+  background: linear-gradient(lightgreen, blue);
   margin-bottom: 50px;
   margin-left: auto;
   margin-right: auto;
@@ -34,5 +35,5 @@
 body {
   text-align: center;
   font-family: Helvetica;
-  
+  color: grey;
 }
