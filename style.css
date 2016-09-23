@@ -1,5 +1,6 @@
 #bluething {
   color: white;
-  text-align: center;
   background-color: blue;
+  width: 50%;
+  text-align: center;
 }
